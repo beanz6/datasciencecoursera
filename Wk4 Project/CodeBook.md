@@ -1,6 +1,7 @@
 subject - The ID of the test subject
 Activity - The activity performed with the corresponding measurements
 
+
                                        
 $ TimeBodyAcceleration.mean...X                   
 $ TimeBodyAcceleration.mean...Y                    
